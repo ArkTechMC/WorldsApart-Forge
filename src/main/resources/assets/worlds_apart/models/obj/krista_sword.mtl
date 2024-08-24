@@ -1,0 +1,46 @@
+# Blender 4.1.0 MTL File: 'KristaVarekSwordsNEW.blend'
+# www.blender.org
+
+newmtl EnergyBlade.Krista
+map_Kd minecraft:block/light_gray_concrete
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.500000
+Pm 0.000000
+
+newmtl Terrain
+map_Kd minecraft:block/cherry_log
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.500000
+Pm 0.000000
+
+newmtl Terrain.001
+map_Kd minecraft:block/cyan_wool
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.500000
+Pm 0.000000
+
+newmtl Terrain.002
+map_Kd minecraft:block/white_wool
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+Pr 0.500000
+Pm 0.000000

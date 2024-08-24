@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.iafenvoy.worldsapart.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "worlds_apart.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

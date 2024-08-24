@@ -1,0 +1,37 @@
+{
+  "loader": "forge:obj",
+  "model": "worlds_apart:models/obj/varek_sword.obj",
+  "flip-v": true,
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [-8.25, -17.5, 39],
+      "scale": [1.5 ,1.5, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, 0],
+      "translation": [8.25, -17.5, 39],
+      "scale": [1.5 ,1.5, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 15],
+      "translation": [15, -17, 26],
+      "scale": [1.5,1.5,1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, -15],
+      "translation": [25, -17, 26],
+      "scale": [1.5,1.5,1]
+    },
+    "fixed": {
+      "rotation": [0, 0, 45],
+      "translation": [28, 3, 7.65],
+      "scale": [0.9,0.9,0.9]
+    },
+    "gui": {
+      "rotation": [0, 180, 45],
+      "translation": [-28, 3, 0],
+      "scale": [0.9,0.9,0.9]
+    }
+  }
+}
