@@ -2,7 +2,7 @@
 # www.blender.org
 
 newmtl EnergyBlade.Krista
-map_Kd minecraft:block/light_gray_concrete
+map_Kd minecraft:block/blue_ice
 Ka 1.000000 1.000000 1.000000
 Kd 0.500000 0.500000 0.500000
 Ks 0.000000 0.000000 0.000000
